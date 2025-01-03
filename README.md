@@ -1,6 +1,6 @@
 Project to simulate a DDOS attack and be able to really understand how the attack works and experience what it's like both from the attacker and targets point of view. 
 
-**THIS IS FOR EDUCATIONAL PURPOSES ONLY! REMEMBER TO ALWAYS DO THESE SORT OF THINGS IN A CONTROLLED ENVIRONMENT AND ASK FOR PERMISSION BEFORE DOING ANYTHING.**
+**Disclaimer: This software is provided for educational purposes only. The author is not responsible for any misuse, illegal activity, or damages caused by this software. Use it responsibly and ensure compliance with applicable laws.**
 
 **Instructions:** Set up 2 VM's, one simulating the attackers machine and the other one simulating the target machine. Create a Nat Network in the virtual machine provider settings (VirtualBox, VMware...) and then go to the VM's settings and set the Network Adapter on both VM's as a NAT Network using the NAT Network you just created. Use this video to guide you up to this point with VirtualBox: https://www.youtube.com/watch?v=DzmUOeFdc-w
 
